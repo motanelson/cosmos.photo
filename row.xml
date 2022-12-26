@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:color="#ff000000"
+	android:background="#aaaaaa"
+
+>
+	<TextView 
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="nome:"
+
+
+	/>
+
+
+	<TextView 
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/text"
+		android:textColor="#ff000000"
+	/>
+	<TextView 
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="morada:"/>
+
+
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/text2"
+	/>
+	<TextView 
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="obra:"/>
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/text3"
+	/>
+
+	<TextView 
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="observações:"/>
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/text4"
+	/>
+
+</LinearLayout>
+
+
