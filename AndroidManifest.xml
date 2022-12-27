@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="horario.android.app" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+		>
+        <activity
+            android:name=".MainActivity00"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+               <activity
+            android:label="@string/app_name"
+        android:name=".MainActivity1" >
+        	        </activity>
+               <activity
+            android:label="@string/app_name"
+        android:name=".MainActivity" >
+        	        </activity>
+               <activity
+            android:label="@string/app_name"
+        android:name=".Main2Activity" >
+        	        </activity>
+        <activity
+            android:label="@string/app_name"
+        android:name=".MainActivity01" >
+        	        </activity>
+        	<activity
+            android:label="@string/app_name"
+        android:name=".MainActivity02" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+        android:name=".Main3Activity" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+        android:name=".Main4Activity" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+        android:name=".MainActivity5" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+        android:name=".MainActivity6" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+        android:name=".MainActivity7" >
+        </activity>
+    </application>
+
+</manifest>
