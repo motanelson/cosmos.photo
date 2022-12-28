@@ -1,2 +1,2 @@
-# temporary working directory
+# cosmos.photo
 
